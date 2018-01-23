@@ -12,6 +12,8 @@
 
 # The Rational Tutorial
 
+<https://ucsb-cs56-pconrad.github.io/tutorials/rational/>
+
 * An opportunity to discuss git/github in more depth
 * An opportunity to review some basics and cover some more advanced material
 * Setting us up for lab01
