@@ -35,4 +35,22 @@ Many (if not all) covered in the Rational Tutorial
    * Using "natural sort" for objects that already implement Comparable
    * Making objects implement Comparable
    * Using Comparators for objects that don't yet implement Comparable
+   * Using lambda expressions for Comparators (not yet in the textbook)
 
+# Java Language Topics
+
+* extends vs. implements (inheritance vs. interfaces)
+* heap vs. stack
+* lifetime of variables
+* garbage collection
+
+# Further down the road
+
+* Exceptions
+   * Checked vs. Unchecked
+   * User defined exceptions
+   * using try/catch, and using "throws"   
+   * throw vs. throws
+* GUIs
+   * The old way: Swing (per your textbook)
+   * The newer way: JavaFX (not in your textbook)
