@@ -3,7 +3,7 @@
 ## Homework 
 
 * Updated version of H06 being handed out today.
-* Discuss Gauchospace turnins
+* Discuss Gradescope turnins
 * Discuss IC00 deductions and grades
 
 # Midterm Exams
