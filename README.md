@@ -18,6 +18,8 @@
 
 # Some things we want to learn how to do
 
+OBVIOUSLY we are not going to discuss all of these in detail today.  Even 1-2 minutes on each topic would take almost the entire class period.    I'm trying to just lay out the territory.
+
 Many (if not all) covered in the Rational Tutorial
 
 * Obviously: basics of creating Java Class
@@ -28,6 +30,7 @@ Many (if not all) covered in the Rational Tutorial
    * `.equals` and `.hashCode`
 * Using Github
 * Using Ant 
+    * Including some XML basics
 * Setting up Javadoc for a private repo
 * Using JUnit
 * Using Maven
